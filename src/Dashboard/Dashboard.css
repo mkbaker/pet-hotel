@@ -1,0 +1,13 @@
+.historyTable {
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 75%;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #ccc;
+}
