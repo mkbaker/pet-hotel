@@ -18,13 +18,13 @@ class OwnersView extends Component {
                 <button>Submit</button>
             </div>
             <div>
-                <table >
+                {/* <table >
                     <thead className='table'>
                         <th>Name</th>
                         <th>Number of Pets</th>
                         <th>Actions</th>
                     </thead>
-                </table>
+                </table> */}
             </div>
         </>
   );
